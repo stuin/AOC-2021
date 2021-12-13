@@ -1,4 +1,4 @@
-package Event4_AOC
+package Event4_AOC1
 
 import java.io.File
 import kotlin.math.abs
